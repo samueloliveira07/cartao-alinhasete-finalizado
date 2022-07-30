@@ -1,0 +1,31 @@
+body {
+    background:  #e2e2e2;
+    font-family: 'Raleway', sans-serif;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+.chamada {
+    background: #3f567e;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    font-size: 20px;
+    padding: 5px;
+    margin-top: 25px;
+}
+
+.beneficios {
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    margin-top: 5px;
+    font-weight: 500;
+}
